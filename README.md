@@ -30,6 +30,20 @@ The files in this repository are ready for use. Simply click on the file, and yo
 - **Supplementary table S2.** Genomic location of probable alleles of *Pinctada fucata* shematrin genes.
 - **Supplementary table S3.** Revised names of previously published shematrin sequences.
 - **Supplementary table S4.** Genomic location of *Pinctada fucata* KRMP genes.
+- **Supplementary table S5.** Genomic location of probable alleles of *Pinctada fucata* KRMP genes.
+- **Supplementary table S6.** Revised names of previously published KRMP sequences.
+- **Supplementary figure S1.** Genomic arrangement of *P. fucata* shematrin genes.
+- **Supplementary figure S2.** Examples of repeat element variants commonly seen in shematrin and KRMP sequences.
+- **Supplementary figure S3.** Alignment of shematrin motifs 1, 2 and 3.
+- **Supplementary figure S4.** Phylogenetic relationships of shematrin genes.
+- **Supplementary list S1.** Shematrin and KRMP sequences used in these analyses.
+
+
+
+
+
+
+
 
 
 
