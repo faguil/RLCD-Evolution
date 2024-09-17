@@ -20,7 +20,7 @@ The lysine (K)-rich mantle protein (KRMP) and shematrin protein families are uni
 
 ## How to download data files
 
-The files in this repository are ready for use. Simply click 'Download,' and the file will be saved to your device.
+The files in this repository are ready for use. Simply click 'On the File' and you will be directed the file will be saved to your device.
 
 ## Index of data file contents
 
