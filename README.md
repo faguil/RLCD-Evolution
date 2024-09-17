@@ -38,4 +38,4 @@ The files in this repository are ready for use. Simply click on the file, and yo
 - **Supplementary figure S4.** Phylogenetic relationships of shematrin genes.
 - **Supplementary list S1.** Shematrin and KRMP sequences used in these analyses.
 
-[02-KRMP-HMM-Markov-model.txt](
+[02-KRMP-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/02-KRMP-HMM-Markov-model.txt)
