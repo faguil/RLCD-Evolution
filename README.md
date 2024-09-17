@@ -24,4 +24,4 @@ The files in this repository are ready for use. Simply click 'Download,' and the
 
 ## Index of data file contents
 
-**01-Supplementary_Tables_Figures_Sequences.doc** contains 
+**[01-Supplementary_Tables_Figures_Sequences.doc](https://github.com/faguil/RLCD-Evolution/blob/main/01-Supplementary-Tables-Figures-Sequences.doc)** contains 
