@@ -25,3 +25,11 @@ The files in this repository are ready for use. Simply click 'Download,' and the
 ## Index of data file contents
 
 [01-Supplementary_Tables_Figures_Sequences.doc](https://github.com/faguil/RLCD-Evolution/blob/main/01-Supplementary-Tables-Figures-Sequences.doc) contains tables, figures, and Shematrin/KRMP sequences used in this study.
+
+- **Supplementary table S1.** Genomic location of *Pinctada fucata* shematrin genes.
+- **Supplementary table S2.** Genomic location of probable alleles of *Pinctada fucata* shematrin genes.
+- **Supplementary table S3.** Revised names of previously published shematrin sequences.
+- **Supplementary table S4.** Genomic location of *Pinctada fucata* KRMP genes.
+
+
+
