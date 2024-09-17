@@ -44,4 +44,4 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [04-Shematrin1:2-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/04-Shematrin1:2-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the Shematrin gene family based on an alignment of *shematrin-1* and *shematrin-2* (shematrin1/2).
 
-[04-Shematrin1:2-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/04-Shematrin1:2-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the Shematrin gene family based on an alignment of *shematrin-1* and *shematrin-2* (shematrin1/2).
+[05-Shematrin-other-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/05-Shematrin-other-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the Shematrin gene family based on an alignment of all shematrins except *shematrin-1* and *shematrin-2* (shematrin-other).
