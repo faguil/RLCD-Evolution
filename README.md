@@ -40,4 +40,6 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [02-KRMP-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/02-KRMP-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the KRMP gene family.
 
-[02-KRMP-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/02-KRMP-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the KRMP gene family.
+[03-Shematrin-all-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/03-Shematrin-all-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the Shematrin gene family based on all sequences (shematrin-all).
+
+[03-Shematrin-all-HMM-Markov-model.txt](https://github.com/faguil/RLCD-Evolution/blob/main/03-Shematrin-all-HMM-Markov-model.txt) contains the profile hidden Markov models (profile HMMs) for the Shematrin gene family based on all sequences (shematrin-all).
