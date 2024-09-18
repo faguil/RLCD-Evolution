@@ -17,6 +17,7 @@ The lysine (K)-rich mantle protein (KRMP) and shematrin protein families are uni
 - [Carmel McDougall](mailto:c.mcdougall@uq.edu.au) (senior author - PostDoc)
 - [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (first author - PhD student)
 - [Bernie Degnan](b.degnan@uq.edu.au) (corresponding author)
+- Lab website: https://www.aguileralab.com.
 
 ## How to download data files
 
